@@ -1,5 +1,4 @@
-# Study Python 
-
+# Python 
 
 ## About Python 
 

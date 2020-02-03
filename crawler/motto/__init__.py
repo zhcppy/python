@@ -84,4 +84,5 @@ if __name__ == '__main__':
 
         logging.info(motto.browser.window_handles)
 
+    # 关闭浏览器连接
     motto.browser.close()

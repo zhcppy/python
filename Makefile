@@ -1,9 +1,6 @@
+#!/usr/bin/make -f
 
-# Happy hacking!
-
-install-lib:
+lib:
     pip install matplotlib
     pip install numpy
     pip install flask
-
-# build: install-lib
